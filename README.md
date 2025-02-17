@@ -1,2 +1,2 @@
 # Filter
-A Program that applies image filters to BMP files, manipulating pixel values to demonstrate how color and structure can be dynamically transformed.
+Digital images can be represented as grids of pixels, with each pixel having a color value. In black-and-white images, one bit per pixel (0 for black, 1 for white) is sufficient. For colorful images, formats like BMP, JPEG, and PNG use 24-bit color, with 8 bits each for red, green, and blue (RGB). Adjusting these RGB values alters pixel colors, enabling various visual effects. In `helpers.c`, this program applies image filters to BMP files, manipulating pixel values to demonstrate how color and structure can be dynamically transformed.
